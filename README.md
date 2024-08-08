@@ -20,4 +20,4 @@ Mona Cheat Sheets
 Most Exercise are done by using Windbg and x32dbg and Ollydbg
    Tools also avilable in the directory
    Most Local Exploit are done by python3.6
-# OSED
+
